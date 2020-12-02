@@ -5,9 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/about
+  path: rzl-kross/exampleSite/content/about/_index.md
   label: About
-  create: all
+  create: documents
   match: "**/*"
 - type: heading
   label: Blog Post
