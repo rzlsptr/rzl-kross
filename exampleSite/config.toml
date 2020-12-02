@@ -29,7 +29,7 @@ google_analytics_id = ""
 home = "Home"
 logo = ""
 phone = ""
-theme_color = "#41228e"
+theme_color = "#9ddfd3"
 [params.contact]
 enable = false
 form_action = "#"
