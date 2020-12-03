@@ -22,7 +22,7 @@ skill:
     progress: "80"
     color: "#9473e6"
   - title: Product Development
-    progress: 90%
+    progress: 85%
     color: "#bdecf6"
   - title: Product Management
     progress: "80"
