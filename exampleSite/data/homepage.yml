@@ -16,7 +16,7 @@ skill:
   title: Skills
   item:
   - title: UI/UX Design
-    progress: "75"
+    progress: 70%
     color: "#fdb157"
   - title: 3D Modelling
     progress: "80"
