@@ -21,8 +21,8 @@ skill:
   - title: 3D Modelling
     progress: "80"
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Product Development
+    progress: 90%
     color: "#bdecf6"
   - title: Web App
     progress: 70%
