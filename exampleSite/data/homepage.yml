@@ -3,11 +3,10 @@ banner:
   title: Hi! I’m <br> Rizal Saputra
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: I'm Mohammad Rizal Saputra, Have work experience of 3 years in the ﬁeld
+    of Product Research and Development. Currently working as Associate Product Manager
+    at Adroady handling Digital and Hardware Product Development. Perform analysis,
+    solve problems, and make product innovations based on data research.
   button:
     enable: true
     label: know more
