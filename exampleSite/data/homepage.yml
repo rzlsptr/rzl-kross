@@ -3,10 +3,10 @@ banner:
   title: Hi! I’m <br> Rizal Saputra
 about:
   enable: true
-  content: I'm Mohammad Rizal Saputra, Have work experience of 3 years in the ﬁeld
-    of Product Research and Development. Currently working as Associate Product Manager
-    at Adroady handling Digital and Hardware Product Development. Perform analysis,
-    solve problems, and make product innovations based on data research.
+  content: I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product
+    Research and Development. Currently working as Associate Product Manager at Adroady
+    handling Digital and Hardware Product Development. Perform analysis, solve problems,
+    and make product innovations based on data research.
   button:
     enable: true
     label: know more
