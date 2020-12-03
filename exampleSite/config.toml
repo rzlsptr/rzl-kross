@@ -68,5 +68,5 @@ icon = "ti-linkedin"
 URL = "https://instagram.com/rzl.sptr"
 icon = "ti-instagram"
 [[params.social]]
-URL = "sharethis.js"
+URL = "if (navigator.share) {   navigator.share({     title: 'web.dev',     text: 'Check out web.dev.',     url: 'https://web.dev/',   })     .then(() => console.log('Successful share'))     .catch((error) => console.log('Error sharing', error)); }"
 icon = "ti-sharethis"
