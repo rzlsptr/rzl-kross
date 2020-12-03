@@ -16,10 +16,10 @@ skill:
   title: Skills
   item:
   - title: UI/UX Design
-    progress: "80"
+    progress: "75"
     color: "#fdb157"
   - title: 3D Modelling
-    progress: 60%
+    progress: "80"
     color: "#9473e6"
   - title: After Effects
     progress: 80%
