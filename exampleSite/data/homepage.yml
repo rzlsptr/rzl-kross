@@ -25,7 +25,7 @@ skill:
     progress: 85%
     color: "#bdecf6"
   - title: Product Management
-    progress: "75"
+    progress: 75%
     color: "#ffbcaa"
 experience:
   enable: true
