@@ -21,8 +21,8 @@ name = "Contact"
 weight = 4
 [params]
 address = "Jakarta Selatan, Indonesia"
-author = "Rizal Saputra"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+author = "Mohammad Rizal Saputra"
+copyright = "Copyright &copy; 2020 by rzlsptr"
 description = "Rizal Saputra | Portfolio"
 email = "moh.rzl.sptr@gmail.com"
 google_analytics_id = ""
@@ -62,8 +62,8 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
+URL = "www.linkedin.com/in/m-rzl-sptr/"
+icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
