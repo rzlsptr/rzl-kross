@@ -62,7 +62,7 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "www.linkedin.com/in/m-rzl-sptr/"
+URL = "linkedin.com/in/m-rzl-sptr/"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "instagram.com/rzl.sptr"
