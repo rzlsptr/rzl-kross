@@ -67,6 +67,3 @@ icon = "ti-linkedin"
 [[params.social]]
 URL = "https://instagram.com/rzl.sptr"
 icon = "ti-instagram"
-[[params.social]]
-URL = ""
-icon = "ti-sharethis"
