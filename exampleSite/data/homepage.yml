@@ -24,8 +24,8 @@ skill:
   - title: Product Development
     progress: 90%
     color: "#bdecf6"
-  - title: Research
-    progress: 70%
+  - title: Product Management
+    progress: "80"
     color: "#ffbcaa"
 experience:
   enable: true
