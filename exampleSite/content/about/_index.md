@@ -2,7 +2,7 @@
 title: About
 description: About Rizal Saputra
 author_image: images/about/author.jpg
-author_signature: images/about/signature.png
+author_signature: ''
 
 ---
 I'm Mohammad Rizal Saputra, Have work experience of 3 years in the ﬁeld of Product Research and Development. Currently working as Associate Product Manager at Adroady handling Digital and Hardware Product Development. Perform analysis, solve problems, and make product innovations based on data research. 
