@@ -1,13 +1,10 @@
 ---
-title: "About"
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
-draft: false
+title: About
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+I'm Mohammad Rizal Saputra, Have work experience of 3 years in the ﬁeld of Product Research and Development. Currently working as Associate Product Manager at Adroady handling Digital and Hardware Product Development. Perform analysis, solve problems, and make product innovations based on data research. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Experience in making product design from scratch until launch. Experience managed in and user experience in web and mobile apps. Have a personal project developing an Android application and publish it in the Play Store. Interested in the technology sector and research product development. Study at the Sepuluh Nopember Institute of Technology (ITS) Surabaya with a bachelor’s degree in the Product Design Department.
