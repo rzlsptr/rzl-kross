@@ -19,10 +19,10 @@ skill:
     progress: 70%
     color: "#fdb157"
   - title: 3D Modelling
-    progress: "80"
+    progress: 80%
     color: "#9473e6"
   - title: Product Development
-    progress: "85"
+    progress: 85%
     color: "#bdecf6"
   - title: Product Management
     progress: "75"
