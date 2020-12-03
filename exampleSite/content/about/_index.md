@@ -1,6 +1,6 @@
 ---
 title: About
-description: This is meta description.
+description: About Rizal Saputra
 author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
