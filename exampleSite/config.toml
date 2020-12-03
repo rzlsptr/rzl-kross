@@ -65,7 +65,7 @@ preloader = "images/preloader.gif"
 URL = "https://linkedin.com/in/m-rzl-sptr/"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "instagram.com/rzl.sptr"
+URL = "https://instagram.com/rzl.sptr"
 icon = "ti-instagram"
 [[params.social]]
 URL = "// Share Url shareUrl = function() {     if (!navigator.share) return;      navigator.share({             url: \"https://rzl.themify.app\",             title: \"Rizal Saputra Personal Website\",             text: \"Checkout my really cool website.\"         })         .then(() => { console.log(\"Shared YEEEE!!!!!\"); })         .catch((error) => { console.log(\"Sharing Failed\") });"
