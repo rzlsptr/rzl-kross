@@ -9,4 +9,4 @@ project_url = "rizalsaputra.com"
 title = "3D Rendering"
 
 +++
-> ![](/images/portofolio-rizal-3d-2.jpg "Shoes Render With 3DsMax")
+![](/images/portofolio-rizal-3d-2.jpg "Shoes Render With 3DsMax")
