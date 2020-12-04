@@ -745,6 +745,8 @@ blockquote {
   margin-bottom: 20px
 }
 
+.content img {width: 100%}
+
 .content strong {
   font-family: playfair display, serif;
   font-size: 22px;
