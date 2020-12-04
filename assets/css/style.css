@@ -459,6 +459,7 @@ textarea.form-control {
 }
 
 .hero-area {
+  height: 100vh;
   padding: 250px 0 200px;
   position: relative
 }
