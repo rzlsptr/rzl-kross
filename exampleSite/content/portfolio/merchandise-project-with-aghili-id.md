@@ -10,7 +10,7 @@ title = "Merchandise Project with Aghili id"
 +++
 #### Project Details
 
-This is a design project in the form of making merchandise, I am currently in aghili id internship. The first merchandise was a Madura batik tote bag combined with synthetic leather. and many more merchandise products that use similar materials, such as notebooks, duffle bags, etc. The client for this tote bag is in the Surabaya branch of Bank Indonesia.
+This is a design project in the form of making merchandise, I am currently in aghili id internship. The first merchandise was a Madura batik tote bag combined with synthetic leather. and many more merchandise products that use similar materials, such as notebooks, duffle bags, etc. The client for this tote bag is Bank Indonesia, branch Surabaya.
 
 The second merchandise is crystal engraving in the form of the ITS research center building, which is used for souvenirs when the launch of the research center building was inaugurated.
 
