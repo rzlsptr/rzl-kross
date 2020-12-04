@@ -9,4 +9,14 @@ project_url = "rizalsaputra.com"
 title = "3D Rendering"
 
 +++
-![](/images/portofolio-rizal-3d-2.jpg "Shoes Render With 3DsMax")
+#### Project Details
+
+This is my personal project as well as with the client, which is 3D rendering. The modeling application uses Solidworks and 3dsmax, and rendering uses Keyshot.
+
+![](/images/portofolio-rizal-3d-3.jpg)![](/images/portofolio-rizal-3d-2.jpg)![](/images/portofolio-rizal-3d-4.jpg)
+
+![](/images/portofolio-rizal-3d-5.jpg)
+
+![](/images/portofolio-rizal-3d-6.jpg)
+
+![](/images/portofolio-rizal-3d-7.jpg)
