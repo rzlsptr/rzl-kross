@@ -1,6 +1,6 @@
 +++
 author = "rzlsptr"
-categories = ["Industrial", "Product Design"]
+categories = ["Industrial Design", "Product Design"]
 client = "rzl sptr"
 date = 2017-06-30T17:00:00Z
 description = "3D Rendering Portfolio of Rizal Saputra"
