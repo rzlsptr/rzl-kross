@@ -5,7 +5,7 @@ image = "/images/rzlblog-1.jpg"
 title = "Berharap dari Indonesia"
 
 +++
-#### Berharap dari Indonesia -Bincang Santai Institut teknologi Sepuluh Nopember
+#### Berharap dari Indonesia - Bincang Santai Institut teknologi Sepuluh Nopember
 
 Sebenarnya apa sih yang bisa kita harapkan dari indonesia? Kenapa Dosen memberikan tugas ini untuk menuliskan apa yang kita harapkan untuk indonesia? Indonesia punya salah apa? Apakah kita sendiri sebagai “Manusia” yang bertempat tinggal di Indonesia yang bertanggung jawab? Mari kita bahas satu persatu, dan baca kesimpulannya di akhir tulisan ini (tapi ya bacanya jangan diloncati)
 
