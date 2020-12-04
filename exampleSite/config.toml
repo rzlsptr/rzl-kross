@@ -1,6 +1,6 @@
 baseURL = "https://rzlsptr.netlify.app/"
 languageCode = "en-us"
-summaryLength = "10"
+summaryLength = "20"
 theme = "kross-hugo"
 title = "rzlsptr"
 [[menu.main]]
