@@ -15,8 +15,8 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: UI/UX Design
-    progress: 70%
+  - title: Product Design
+    progress: 85%
     color: "#fdb157"
   - title: 3D Modelling
     progress: 80%
