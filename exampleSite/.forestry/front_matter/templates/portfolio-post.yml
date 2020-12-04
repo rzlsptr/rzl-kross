@@ -11,9 +11,14 @@ fields:
 - type: file
   name: image
   label: image
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 - type: text
   name: client
-  label: author
+  label: client
 - type: text
   name: project_url
   label: project_url
