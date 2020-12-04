@@ -1,5 +1,5 @@
 +++
-date = 2017-03-03T17:00:00Z
+date = 2017-03-04T11:00:00Z
 description = "Berharap dari Indonesia - Bincang Santai Institut teknologi Nopember 4 Maret 2017"
 image = "/images/rzlblog-1.jpg"
 title = "Berharap dari Indonesia"
