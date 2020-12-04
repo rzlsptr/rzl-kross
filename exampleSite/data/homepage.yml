@@ -75,7 +75,7 @@ service:
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "3"
+  item_show: "4"
 testimonial:
   enable: false
   title: Testimonials
