@@ -12,8 +12,8 @@ fields:
   name: image
   label: image
 - type: text
-  name: client
-  label: client
+  name: author
+  label: author
 - type: text
   name: project_url
   label: project_url
