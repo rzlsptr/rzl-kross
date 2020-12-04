@@ -12,7 +12,7 @@ fields:
   name: image
   label: image
 - type: text
-  name: author
+  name: client
   label: author
 - type: text
   name: project_url
