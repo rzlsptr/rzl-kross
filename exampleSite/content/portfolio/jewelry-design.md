@@ -3,7 +3,6 @@ categories = ["Product Design", "Industrial Design"]
 client = "rzl sptr"
 date = 2016-12-31T11:00:00Z
 description = "Jewelry Design Portfolio by Rizal Saputra"
-draft = true
 image = "/images/rzl-jewelry-3.jpg"
 project_url = ""
 title = "Jewelry Design"
