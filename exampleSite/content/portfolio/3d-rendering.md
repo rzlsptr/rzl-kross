@@ -4,7 +4,7 @@ categories = ["Industrial", "Product Design"]
 client = "rzl sptr"
 date = 2017-06-30T17:00:00Z
 description = "3D Rendering Portfolio of Rizal Saputra"
-image = "/images/portofolio-rizal-3d-2.jpg"
+image = "/images/portofolio-rizal-3d-8.jpg"
 project_url = "rizalsaputra.com"
 title = "3D Rendering"
 
@@ -12,6 +12,10 @@ title = "3D Rendering"
 #### Project Details
 
 This is my personal project as well as with the client, which is 3D rendering. The modeling application uses Solidworks and 3dsmax, and rendering uses Keyshot.
+
+![](/images/portofolio-rizal-3d-8.jpg)
+
+![](/images/portofolio-rizal-3d-9.jpg)
 
 ![](/images/portofolio-rizal-3d-3.jpg)![](/images/portofolio-rizal-3d-2.jpg)![](/images/portofolio-rizal-3d-4.jpg)
 
