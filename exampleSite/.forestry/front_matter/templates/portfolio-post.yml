@@ -11,11 +11,6 @@ fields:
 - type: file
   name: image
   label: image
-- name: author
-  type: text
-  config:
-    required: false
-  label: Author
 - type: text
   name: client
   label: client
