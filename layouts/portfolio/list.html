@@ -43,10 +43,14 @@
 </section>
 <!-- /portfolio -->
 
-<section class="section bg-light">
-  <div class="container">
-    {{ partial "client-slider.html" . }}
-  </div>
-</section>
+  {{ if site.Data.homepage.clients_logo_slider.enable }}
+  <!-- client logo slider -->
+  <section class="section bg-light">
+    <div class="container">
+      {{ partial "client-slider.html" . }}
+    </div>
+  </section>
+  <!-- /client logo slider -->
+  {{ end }}
 
 {{ end }}
