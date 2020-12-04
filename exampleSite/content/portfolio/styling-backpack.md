@@ -3,7 +3,7 @@ categories = ["Industrial Design", "Product Design"]
 client = "rzl sptr"
 date = 2016-12-31T10:00:00Z
 description = "Styling - Backpack Portfolio by Rizal Saputra"
-image = "/images/rzl-styling-2.jpg"
+image = "/images/rzl-styling-thumb.jpg"
 project_url = ""
 title = "Styling - Backpack"
 
