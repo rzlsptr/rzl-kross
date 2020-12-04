@@ -3,7 +3,7 @@ categories = ["Product Design", "Industrial Design"]
 client = "rzl sptr"
 date = 2017-01-05T09:00:00Z
 description = "Furniture Design Portfolio by Rizal Saputra"
-image = "/images/rzl-furni-1.jpg"
+image = "/images/rzl-furni-thumb.jpg"
 project_url = ""
 title = "Furniture Design"
 
