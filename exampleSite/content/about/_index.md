@@ -77,7 +77,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 <br>
 
-#### Skills
+#### **Skills**
 
 * UI/UX Design
 * Prototyping
@@ -92,7 +92,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 <br>
 
-#### Tools
+#### **Tools**
 
 * FIgma
 * SQL
