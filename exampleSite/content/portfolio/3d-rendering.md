@@ -13,7 +13,7 @@ title = "3D Rendering"
 
 This is my personal project as well as with the client, which is 3D rendering. The modeling application uses Solidworks and 3dsmax, and rendering uses Keyshot.
 
-![](/images/portofolio-rizal-3d-8.jpg)
+<div class="videoWrapper"><iframe src="https://drive.google.com/file/d/1AH95bPMppHWsj091Ps6rqfQeYZ55IZIe/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
 
 ![](/images/portofolio-rizal-3d-9.jpg)
 
