@@ -74,3 +74,38 @@ Experience in making product design from scratch until launch. Experience manage
 ###### _Science Major_
 
 * Graduates by entering college through the SNMPTN pathway.
+
+<br>
+
+#### Skills
+
+* UI/UX Design
+* Prototyping
+* 3D Design
+* Data Analysis
+* Market Research
+* Creative
+* Teamwork
+* Problem Solving
+* Product Research & Development
+* Product Launch
+
+<br>
+
+#### Tools
+
+* FIgma
+* SQL
+* Swagger
+* Android Studio
+* Git
+* GooglePlay Console & Adwords
+* Trello
+* Illustrator
+* Coreldraw
+* 3DsMax
+* Keyshot
+* Sketchbook
+* Cura
+* Solidworks
+* Autocad
