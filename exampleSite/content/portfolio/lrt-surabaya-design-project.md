@@ -1,7 +1,7 @@
 +++
 categories = ["Transportation Design", "Product Design", "Industrial Design"]
 client = "Mohammad Rizal Saputra"
-date = 2021-01-07T12:00:00Z
+date = 2019-01-07T12:00:00Z
 description = "LRT Surabaya Design Project - Portfolio by Rizal Saputra"
 image = "/images/rzl-ta-1.jpg"
 project_url = ""
