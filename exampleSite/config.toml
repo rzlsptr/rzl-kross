@@ -33,7 +33,7 @@ logo = ""
 phone = "Line: bajoels"
 theme_color = "#0278ae"
 [params.contact]
-enable = false
+enable = true
 form_action = "#"
 [params.cookies]
 enable = false
