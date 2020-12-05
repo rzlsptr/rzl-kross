@@ -1,7 +1,7 @@
 +++
 categories = ["Transportation Design", "Product Design", "Industrial Design"]
 client = "rzl sptr"
-date = 2020-07-17T11:00:00Z
+date = 2017-07-17T11:00:00Z
 description = "Fortius Ship Animation - Portfolio by Rizal Saputra"
 image = "/images/portofolio-rizal-3d-thumb.jpg"
 project_url = ""
