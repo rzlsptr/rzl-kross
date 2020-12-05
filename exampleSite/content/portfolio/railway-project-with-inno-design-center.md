@@ -26,9 +26,13 @@ Apart from working on the animation, we also made a scale model prototype of the
 
 #### Sleeper Seat and Coupler Design
 
+<div class="videoWrapper"><iframe src="https://drive.google.com/file/d/17yFDoGfekHahv7BOZ_eZVgQu9LkzMpqe/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
+
 ![](/images/rzl-railway-4.jpg)
 
 This sleeper seat is an innovation that has been implemented for the first time on long-distance Indonesian trains by INKA. This chair can be reclined up to 170 degrees. Here I am working on the frame and enclosure of this chair using the Solidworks application.
+
+<div class="videoWrapper"><iframe src="https://drive.google.com/file/d/1ChNwFB5qfF_hoGCS6idCXcpvI1N8vnlA/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
 
 ![](/images/rzl-railway-5.jpg)
 
