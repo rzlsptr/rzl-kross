@@ -14,6 +14,8 @@ This project was when I did an internship at the INNO Design Center. Most of the
 
 #### Animation and Scaled Model Protoype of LRT Palembang
 
+    <iframe src="https://drive.google.com/file/d/1NEVdB7kADQsw9H9O60AJ9NMyy0_Zu7eg/preview" width="640" height="480"></iframe>
+
 ![](/images/rzl-railway-2.jpg)
 
 This project is to create an animation for the Palembang LRT for promotional purposes and a real illustration of how the Palembang LRT will work with the Palembang city environment. This project uses Solidworks for its basic 3D, uses 3DsMax for moving part animation, and rendering using the Lumion application.
