@@ -14,7 +14,7 @@ This project was when I did an internship at the INNO Design Center. Most of the
 
 #### Animation and Scaled Model Protoype of LRT Palembang
 
-<**div** style="text-align:center;"> <iframe src="https://drive.google.com/file/d/1NEVdB7kADQsw9H9O60AJ9NMyy0_Zu7eg/preview" width="900" height="600"></iframe></**div**>
+<video src="https://drive.google.com/file/d/1NEVdB7kADQsw9H9O60AJ9NMyy0_Zu7eg/preview" width="100%" height="auto"></video>
 
 ![](/images/rzl-railway-2.jpg)
 
