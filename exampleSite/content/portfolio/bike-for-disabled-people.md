@@ -8,6 +8,8 @@ project_url = ""
 title = "Bike for Disabled People"
 
 +++
+<div class="videoWrapper"><iframe src="https://drive.google.com/file/d/1kywFzrGIV9xafl1DS1IhVlF1JLAIPNvG/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
+
 #### Project Details
 
 The Indonesian government has made efforts to make SIM D specifically for persons with disabilities using three-wheeled vehicles. However, the transportation equipment itself still does not meet ergonomic standards and also the special needs of each disabled with different levels and types of disabilities.
