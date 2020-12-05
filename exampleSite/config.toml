@@ -35,7 +35,7 @@ enable = false
 form_action = "#"
 [params.cookies]
 enable = true
-expire_days = "7"
+expire_days = "2"
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
