@@ -67,3 +67,5 @@ icon = "ti-linkedin"
 [[params.social]]
 URL = "https://instagram.com/rzl.sptr"
 icon = "ti-instagram"
+[markup.goldmark.renderer]
+unsafe= true
