@@ -1,8 +1,10 @@
-baseURL = "https://rzlsptr.netlify.app/"
+baseURL = "https://rizalsaputra.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "rzlsptr"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -67,5 +69,3 @@ icon = "ti-linkedin"
 [[params.social]]
 URL = "https://instagram.com/rzl.sptr"
 icon = "ti-instagram"
-[markup.goldmark.renderer]
-unsafe= true
