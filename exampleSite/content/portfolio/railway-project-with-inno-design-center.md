@@ -24,13 +24,15 @@ This project is to create an animation for the Palembang LRT for promotional pur
 
 Apart from working on the animation, we also made a scale model prototype of the Palembang LRT itself. The prototype is a series of carriages and mascara, complete with an interior. The interior is also complete with lighting just like the original atmosphere. This Scale Prototype Animation and Model was also exhibited at Grand City Surabaya in 2018 to show the mature concept of the Palembang LRT project.
 
-#### Sleeper Seat and Coupler Design
+#### Sleeper Seat Design Project
 
 <div class="videoWrapper"><iframe src="https://drive.google.com/file/d/17yFDoGfekHahv7BOZ_eZVgQu9LkzMpqe/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
 
 ![](/images/rzl-railway-4.jpg)
 
 This sleeper seat is an innovation that has been implemented for the first time on long-distance Indonesian trains by INKA. This chair can be reclined up to 170 degrees. Here I am working on the frame and enclosure of this chair using the Solidworks application.
+
+#### Coupler Design Project
 
 <div class="videoWrapper"><iframe src="https://drive.google.com/file/d/1ChNwFB5qfF_hoGCS6idCXcpvI1N8vnlA/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
 
