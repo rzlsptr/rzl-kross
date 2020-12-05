@@ -13,7 +13,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 ##### **Adroady (Jakarta Selatan, Indonesia)**
 
-_Associate Product Manager_ (January 2019 - Present)
+###### _Associate Product Manager_ (January 2019 - Present)
 
 * Conduct product release planning to discuss and establish roadmap on new product/feature development
 * Works closely with stakeholders in designing the end-to-end business flow for implementation of new features and enhancements
@@ -23,7 +23,9 @@ _Associate Product Manager_ (January 2019 - Present)
 * Make documentation and evaluate a product
 * Standardize the quality, assembly, and installation of Adroady hardware products.
 
-_Industrial Product Designer_ (August 2019 - January 2020)
+<br>
+
+###### _Industrial Product Designer_ (August 2019 - January 2020)
 
 * Seek product ideas and feedback, gather requirements, write specs, design, and demo them early and often.
 * Works closely with stakeholders in designing and production
@@ -32,35 +34,43 @@ _Industrial Product Designer_ (August 2019 - January 2020)
 * Design and prototyping AI Device
 * Supervise mass production of a product
 
+<br>
+
 ##### **Inno Design Center (Surabaya, Indonesia)**
 
-_Staff designer_ (July 2017 - Desember 2018)
+###### _Staff designer_ (July 2017 - Desember 2018)
 
 * Animation of LRT Palembang 2017
 * Event Organizer Suroboyo Creative Week 2017
 * Design Sleeper Seat for INKA 2018
 * Event Organizer Suroboyo Creative Week 2018
 
+<br>
+
 ##### **Personal Team Project (Android Apps)**
 
-_Product Manager_ (July 2019 - Present)
+###### _Product Manager_ (July 2019 - Present)
 
 * Research SEO, Keywords, and Content for Mobile Apps
 * Develop Android Apps and publish in Playstore with a total of 500K+ download
 * Manage Google Play Console also AdWords and AdMob
 
+<br>
+
 #### **Educational**
 
 ##### **Sepuluh November Institute of Technology (ITS) Surabaya** **(2014-2019)**
 
-_Bachelor of Arts in Product Design - Product Design Department - GPA 3,19_
+###### _Bachelor of Arts in Product Design - Product Design Department - GPA 3,19_
 
 * Kepala Biro Pemetaan Departemen Pengembangan Sumber Daya Manusia - Himpunan Mahasiswa IDE Desain Produk Kabinet Nirmana Jingga. 2016 - 2017
 * Staff Kementerian Pengembangan Sumber Daya Manusia - Badan Eksekutif Mahasiswa Institut Teknologi Sepuluh Nopember. 2015 - 2016
 * Staff Biro Pemetaan Departemen Pengembangan Sumber Daya Manusia - Himpunan Mahasiswa IDE Desain Produk Kabinet Galaksi. 2015 - 2016
 
+<br>
+
 ##### **SMAN 1 Srengat Blitar (2011-2014)**
 
-_Science Major_
+###### _Science Major_
 
 * Graduates by entering college through the SNMPTN pathway
