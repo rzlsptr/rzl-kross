@@ -34,7 +34,7 @@ phone = "Line: bajoels"
 theme_color = "#0278ae"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://formspree.io/f/xzbkanno"
 [params.cookies]
 enable = false
 expire_days = "2"
