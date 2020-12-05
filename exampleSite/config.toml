@@ -1,4 +1,4 @@
-baseURL = "http://www.rizalsaputra.com/"
+baseURL = "rizalsaputra.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
