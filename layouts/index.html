@@ -206,11 +206,15 @@
         {{ end }}
       </div>
     </div>
+    {{ with site.Data.homepage.portfolio }}
+    <div class="col-lg-10 mx-auto text-center">
     {{ if .button.enable }}
     {{ with .button }}
     <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
     {{ end }}
     {{ end }}
+    {{ end }}
+    </div>
   </section>
   <!-- /portfolio -->
   {{ end }}
