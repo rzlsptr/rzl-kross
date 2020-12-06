@@ -78,8 +78,8 @@ portfolio:
   item_show: "5"
   button:
     enable: true
-    label: know more
-    URL: about
+    label: more
+    URL: portfolio
 testimonial:
   enable: false
   title: Testimonials
