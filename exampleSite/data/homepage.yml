@@ -78,7 +78,7 @@ portfolio:
   item_show: "5"
   button:
     enable: true
-    label: more
+    label: more portfolio
     URL: portfolio
 testimonial:
   enable: false
