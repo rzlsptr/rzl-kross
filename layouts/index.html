@@ -206,6 +206,11 @@
         {{ end }}
       </div>
     </div>
+    {{ if .button.enable }}
+    {{ with .button }}
+    <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+    {{ end }}
+    {{ end }}
   </section>
   <!-- /portfolio -->
   {{ end }}
