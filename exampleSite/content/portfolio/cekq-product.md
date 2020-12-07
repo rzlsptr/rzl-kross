@@ -112,3 +112,14 @@ Checkpoint CekQ with a device that can detect temperature without direct contact
 * Portable
 
 ##### **CekQ Reco**
+
+* Face Recognition
+* 7 inch Screen
+* Camera 720p
+* Internet Connection (Modem)
+* Temperature Detection
+* Portable
+
+![](/images/rzlaithmb4.jpg)
+
+#### **Installed Device**
