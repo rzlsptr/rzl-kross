@@ -24,7 +24,7 @@ touchless check-in system with visitor tracking and engagement built-in. We use 
 
 ##### Automatic temperature check without contact
 
-Body temperature **check** is carried out independently by each visitor using the application and device CekQ
+Body temperature check is carried out independently by each visitor using the application and device CekQ
 
 ##### Visitor Identification
 
