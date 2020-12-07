@@ -3,7 +3,6 @@ categories = ["Mobile Apps", "Product Development", "Product Design"]
 client = "Rizal Saputra, Adroady Team"
 date = 2020-12-01T11:00:00Z
 description = "CekQ Product - Portfolio by Rizal Saputra"
-draft = true
 image = "/images/cekqthumb.png"
 project_url = "https://cekq.co.id/"
 title = "CekQ Product"
@@ -123,3 +122,9 @@ Checkpoint CekQ with a device that can detect temperature without direct contact
 ![](/images/rzlaithmb4.jpg)
 
 #### **Installed Device**
+
+<div class="videoWrapper"><iframe src="https://drive.google.com/file/d/1EvrAM8qX10WORvPtTvDuiZKBRA43uiyf/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
+
+The following is the CekQ device installed at the Mandiri Town Square Jakarta Foodcourt (Video is courtesy of GBE Building Management Mantos).
+
+![](/images/rzlaithmb5.jpg)
