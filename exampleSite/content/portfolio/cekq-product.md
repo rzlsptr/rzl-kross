@@ -10,21 +10,21 @@ title = "CekQ Product"
 +++
 <div class="videoWrapper"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ASZszZC6exE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### What is CekQ?
+### **What is CekQ?**
 
 touchless check-in system with visitor tracking and engagement built-in. We use QR Code Technology that can minimize direct interaction.
 
-#### How It Works
+#### **How It Works**
 
 1. Scan the QR Code Profile to the Device
 2. Check the Body Temperature
 3. Analyze Data in One Dashboard
 
-#### Competitive Advantage:
+#### **Competitive Advantage:**
 
 ##### Automatic temperature check without contact
 
-Body temperature check is carried out independently by each visitor using the application and device CekQ
+Body temperature **check** is carried out independently by each visitor using the application and device CekQ
 
 ##### Visitor Identification
 
@@ -38,7 +38,7 @@ Using the visit history data of CekQ visitors, you can display the habits of eac
 
 By using CekQ, visitors will immediately get a loyalty and membership program in all places that work with CekQ
 
-#### Dashboard
+#### **Dashboard**
 
 ![](/images/cekq1.png)
 
@@ -70,7 +70,7 @@ By using CekQ, visitors will immediately get a loyalty and membership program in
 * Average visit checkpoint/tenant
 * History Location
 
-#### CekQ Product:
+#### **CekQ Product:**
 
 ##### CekQ Apps
 
@@ -119,7 +119,7 @@ Checkpoint CekQ with a device that can detect temperature without direct contact
 
 ![](/images/rzlaithmb4.jpg)
 
-#### Installed Device
+#### **Installed Device**
 
 <div class="videoWrapper"><iframe src="https://drive.google.com/file/d/1EvrAM8qX10WORvPtTvDuiZKBRA43uiyf/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe></div>
 
