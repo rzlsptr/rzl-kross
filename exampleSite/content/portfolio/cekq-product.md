@@ -117,7 +117,7 @@ Checkpoint CekQ with a device that can detect temperature without direct contact
 * Temperature Detection
 * Portable
 
-![](/images/rzlaithmb4.jpg)
+![](/images/cekq4.jpg)
 
 #### **Installed Device**
 
@@ -125,4 +125,4 @@ Checkpoint CekQ with a device that can detect temperature without direct contact
 
 The following is the CekQ device installed at the Mandiri Town Square Jakarta Foodcourt (Video is courtesy of GBE Building Management Mantos).
 
-![](/images/rzlaithmb5.jpg)
+![](/images/cekq5.jpg)
