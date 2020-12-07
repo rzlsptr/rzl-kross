@@ -36,7 +36,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 <br>
 
-##### **Inno Design Center (Surabaya, Indonesia)**
+##### **Inno Design Center - Intership (Surabaya, Indonesia)**
 
 ###### _Staff designer_ (July 2017 - Desember 2018)
 
