@@ -15,18 +15,18 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Product Design
-    progress: 85%
-    color: "#fdb157"
-  - title: 3D Modelling
-    progress: 80%
-    color: "#9473e6"
   - title: Product Development
     progress: 85%
     color: "#bdecf6"
   - title: Product Management
     progress: 80%
     color: "#ffbcaa"
+  - title: Product Design
+    progress: 85%
+    color: "#fdb157"
+  - title: 3D Modelling
+    progress: 80%
+    color: "#9473e6"
 experience:
   enable: true
   title: Experience
