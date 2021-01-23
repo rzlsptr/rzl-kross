@@ -38,7 +38,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 ##### **Inno Design Center - Intership (Surabaya, Indonesia)**
 
-###### _Staff designer_ (July 2017 - Desember 2018)
+###### _Staff designer_ (July 2017 - December 2018)
 
 * Animation of LRT Palembang 2017.
 * Event Organizer Suroboyo Creative Week 2017.
@@ -94,7 +94,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 #### **Tools**
 
-* FIgma
+* Figma
 * SQL
 * Swagger
 * Android Studio
