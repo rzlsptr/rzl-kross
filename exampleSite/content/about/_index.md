@@ -13,7 +13,7 @@ Experience in making product design from scratch until launch. Experience manage
 
 ##### **Adroady (Jakarta Selatan, Indonesia)**
 
-###### _Associate Product Manager_ (January 2019 - Present)
+###### _Associate Product Manager_ (January 2020 - Present)
 
 * Conduct product release planning to discuss and establish a roadmap on new product/feature development.
 * Works closely with stakeholders in designing the end-to-end business flow for the implementation of new features and enhancements.
