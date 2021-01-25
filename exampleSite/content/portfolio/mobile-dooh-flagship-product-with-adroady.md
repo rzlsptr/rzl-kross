@@ -2,7 +2,7 @@
 categories = ["Product Development", "Product Design"]
 client = "Rizal Saputra, Adroady Team"
 date = 2020-09-01T11:00:00Z
-description = ""
+description = "Flagship DOOH Adroady Product - Rizal Saputra"
 image = "/images/rzlflagshipthmb.jpg"
 project_url = "adroady.com"
 title = "Mobile DOOH Flagship Product with Adroady"
