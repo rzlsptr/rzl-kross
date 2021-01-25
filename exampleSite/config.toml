@@ -24,7 +24,7 @@ weight = 4
 [params]
 address = "Jakarta Selatan, Indonesia"
 author = "Mohammad Rizal Saputra"
-copyright = "Copyright &copy; 2021 by rzlsptr"
+copyright = "Copyright &copy; 2021 by rzlsptr, build with Hugo + Forestry + Netlify"
 description = "Rizal Saputra | Personal Web "
 email = "Contact me via form"
 google_analytics_id = ""
