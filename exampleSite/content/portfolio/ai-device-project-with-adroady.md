@@ -1,7 +1,7 @@
 +++
 categories = ["Product Design", "Product Development"]
 client = "Rizal Saputra, Adroady Team"
-date = 2020-11-27T11:00:00Z
+date = 2020-03-01T11:00:00Z
 description = "AI Device Adroady Product - Rizal Saputra"
 image = "/images/rzlaithmb.jpg"
 project_url = "adroady.com"
