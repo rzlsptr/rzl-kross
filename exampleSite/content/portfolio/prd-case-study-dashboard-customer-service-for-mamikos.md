@@ -3,7 +3,6 @@ categories = ["Product Development"]
 client = ""
 date = 2021-01-30T17:00:00Z
 description = "Product Requirement Documents Case Study:Dashboard Customer Service for Mamikos by Rizal Saputra"
-draft = true
 image = "/images/thumbnailmamikos.png"
 project_url = ""
 title = "PRD Case Study: Dashboard Customer Service for Mamikos"
