@@ -1,5 +1,5 @@
 +++
-categories = ["Product Design", "Mobile Apps"]
+categories = ["Product Development", "Product Design", "Mobile Apps"]
 client = "rzlsptr, acnjb"
 date = 2019-08-17T11:00:00Z
 description = "Android Apps Team Project"
