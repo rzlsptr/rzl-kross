@@ -1,6 +1,6 @@
 +++
 categories = ["Product Development"]
-client = ""
+client = "Rizal Saputra"
 date = 2021-01-30T17:00:00Z
 description = "Product Requirement Documents Case Study:Dashboard Customer Service for Mamikos by Rizal Saputra"
 image = "/images/thumbnailmamikos.png"
