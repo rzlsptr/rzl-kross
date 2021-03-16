@@ -54,7 +54,7 @@ education:
     year: "2014"
     academy: SMAN 1 Srengat Blitar
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
