@@ -4,7 +4,7 @@
   
    <meta property="og:title" content="{{ .Title }}">
    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
-   <meta property="og:image" content="{{ with .Image | absURL }}{{ . }}{{ else }}{{ `images/logo.png` | absURL }}{{ . }}{{ end }}{{ end }}">
+   <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ `images/logo.png` | absURL }}{{ . }}{{ end }}{{ end }}">
    <meta name="twitter:card" content="summary">
    <meta name="robots" content="index, follow">
    <meta name="googlebot" content="index, follow">
