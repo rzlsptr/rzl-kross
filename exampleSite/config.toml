@@ -29,7 +29,7 @@ description = "Rizal Saputra | Personal Web "
 email = "Contact me via form"
 google_analytics_id = ""
 home = "Home"
-logo = ""
+logo = "/images/logo.png"
 phone = "Line: bajoels"
 theme_color = "#0278ae"
 [params.contact]
