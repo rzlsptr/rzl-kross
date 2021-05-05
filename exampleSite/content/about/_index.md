@@ -64,7 +64,7 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 #### **Educational**
 
-##### **Sepuluh November Institute of Technology (ITS) Surabaya** **(2014-2019)**
+##### **Sepuluh November Institute of Technology (ITS) Surabaya**
 
 ###### _Bachelor of Arts in Product Design - Product Design Department (26/08/2014 - 16/03/2019)_
 
