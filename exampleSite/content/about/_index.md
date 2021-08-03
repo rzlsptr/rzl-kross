@@ -5,13 +5,19 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Management. Currently working as Associate Product Manager at Adroady. Perform analysis, solve problems, and make product innovations based on data research. Experience in making Digital products, AI products, and IoT products. Have a personal project in Entertainment mobile apps, Social media management platform, and Job portal platform. Interested and eager to learn in the technology, business sector, and product management. Graduated from Sepuluh Nopember Institute of Technology (ITS) Surabaya with a bachelor’s degree in Product Design.
+I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Management. Currently working as Associate Product Manager at SiCepat Ekspres Indonesia in Product-Business Unit Ops. Perform analysis, solve problems, and make product innovations based on data research. Experience in making Digital products, AI products, and IoT products. Have a personal project in Entertainment mobile apps, Social media management platform, and Job portal platform. Interested and eager to learn in the technology, business sector, and product management. Graduated from Sepuluh Nopember Institute of Technology (ITS) Surabaya with a bachelor’s degree in Product Design.
 
 #### **Experience**
 
-##### **Adroady (Jakarta Selatan, Indonesia)**
+##### **SiCepat Ekspres Indonesia (Jakarta, Indonesia)**
 
-###### _Associate Product Manager_ (January 2020 - Present)
+###### _Associate Product Manager_ (July 2021 - Present)
+
+* working on Product-Business Unit Ops at SiCepat Ekspres Indonesia
+
+##### **Adroady (Jakarta, Indonesia)**
+
+###### _Associate Product Manager_ (January 2020 - June 2021)
 
 * Launched [**AdroadyBikeOOH**](https://rizalsaputra.com/portfolio/mobile-dooh-flagship-product-with-adroady/), we help advertisers to promote their campaign inroads with a motorcycle, the successor of the flagship product installed on the car, with targetted location and time, image recognition for count impression and views from vehicle and people behind, and the advertiser can monitor the detailed report in the dashboard. AdroadyBike has run more than 20++ units on the street.
 * Launched [**AdroadyAI**](https://rizalsaputra.com/portfolio/ai-device-project-with-adroady/), which detects movement, from people to public transport vehicles. AdroadyAI devices can be installed starting from indoor and outdoors. Our idea to connect every OOH media platform extends to the very core of our tracking device. We want to provide analytical insights into our traditional fellows and bring them closer to the gate of digitalization. User can see reports and track in real-time in the dashboard.
@@ -104,10 +110,12 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 * Figma
 * Ms-Excel
 * Redash
+* PowerBI
 * Google Play Console
 * Analitycs
 * Ads & Admob
 * Swagger
+* Postman
 * Android Studio
 * Illustrator
 * Coreldraw
