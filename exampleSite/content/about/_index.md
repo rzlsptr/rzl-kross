@@ -15,6 +15,8 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 * working on Product-Business Unit Ops at SiCepat Ekspres Indonesia
 
+  <br>
+
 ##### **Adroady (Jakarta, Indonesia)**
 
 ###### _Associate Product Manager_ (January 2020 - June 2021)
