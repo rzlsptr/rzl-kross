@@ -31,6 +31,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: images/experience/icon-1.png
+    title: Core Product Manager
+    company: SiCepat Ekspres Indonesia
+    duration: Apr 2022 - Present
   - logo: images/experience/icon-2.png
     title: Associate Product Manager
     company: SiCepat Ekspres Indonesia
