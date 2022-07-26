@@ -13,7 +13,7 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 ###### _Core Product Manager_ (April 2022 - Present)
 
-* Act as Lead Product manager in Core Operation - Support: Master Data, User Management, Customer Management, Auth SSO & OTP, App Integration, Fleet, Support SiCepat TMS & POD
+* Handle Product in Core Operation - Support: Master Data, User Management, Customer Management, Auth SSO & OTP, App Integration, Fleet, Support SiCepat TMS & POD
 * Handle for Master Data SiCepat, a centralized data & system for support all SiCepat Apps Ecosystem
 * Integrate Master Data SiCepat with SunFish, for centralized employee data and internal users management.
 * Build WhatsApp and Email OTP for TMS, POD and Master Data system and reduce cost 80% of monthly OTP
