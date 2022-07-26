@@ -75,6 +75,7 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 * Research SEO, Keywords, and Content for Mobile Apps.
 * Develop Android Apps and publish in Playstore with a total of 500K+ download.
 * Manage Google Play Console also AdWords and AdMob.
+  * <br>
 
 #### **Educational**
 
