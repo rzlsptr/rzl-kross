@@ -83,9 +83,9 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 ###### _Bachelor of Arts in Product Design - Product Design Department (26/08/2014 - 16/03/2019)_
 
-* Kepala Biro Pemetaan Departemen Pengembangan Sumber Daya Manusia - Himpunan Mahasiswa IDE Desain Produk Kabinet Nirmana Jingga. 2016 - 2017.
-* Staff Kementerian Pengembangan Sumber Daya Manusia - Badan Eksekutif Mahasiswa Institut Teknologi Sepuluh Nopember. 2015 - 2016.
-* Staff Biro Pemetaan Departemen Pengembangan Sumber Daya Manusia - Himpunan Mahasiswa IDE Desain Produk Kabinet Galaksi. 2015 - 2016.
+* Head of Mapping Bureau, Department of Human Resources Development - Product Design IDE Student Association Nirmana Jingga Cabinet. 2016 - 2017
+* Staff of the Ministry of Human Resources Development - Student Executive Board Institut Teknologi Sepuluh Nopember. 2016 - 2016
+* Mapping Bureau Staff, Human Resources Development Department - Student Association of Product Design IDE Galaksi Cabinet. 2015 - 2016
 
 <br>
 
