@@ -5,15 +5,34 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Management. Currently working as Associate Product Manager at SiCepat Ekspres Indonesia in Product-Business Unit Ops. Perform analysis, solve problems, and make product innovations based on data research. Experience in making Digital products, AI products, and IoT products. Have a personal project in Entertainment mobile apps, Social media management platform, and Job portal platform. Interested and eager to learn in the technology, business sector, and product management. Graduated from Sepuluh Nopember Institute of Technology (ITS) Surabaya with a bachelor’s degree in Product Design.
+I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Management. Currently working as Core Product Manager at SiCepat Ekspres Indonesia. Perform analysis, solve problems, and make product innovations based on data research. Experience in building Digital products, AI products, and IoT products. Have a personal project in Entertainment mobile apps. Interested and eager to learn in technology, business processes, and product management.
 
 #### **Experience**
 
 ##### **SiCepat Ekspres Indonesia (Jakarta, Indonesia)**
 
-###### _Associate Product Manager_ (July 2021 - Present)
+###### _Core Product Manager_ (April 2022 - Present)
 
-* working on Product-Business Unit Ops at SiCepat Ekspres Indonesia
+* Act as Lead Product manager in Core Operation - Support: Master Data, User Management, Customer Management, Auth SSO & OTP, App Integration, Fleet, Support SiCepat TMS & POD
+* Handle for Master Data SiCepat, a centralized data & system for support all SiCepat Apps Ecosystem
+* Integrate Master Data SiCepat with SunFish, for centralized employee data and internal users management.
+* Build WhatsApp and Email OTP for TMS, POD and Master Data system and reduce cost 80% of monthly OTP
+* Integrate Master Data with SAP, Odoo, and Billing System for Finance and Help Desk needs
+* Support for SiCepat Petty Cash and Billing system launch and reduce cost 6 billion rupiah
+* Increase efficiency of SLA From 72% to 90%, from improvement mapping Subdistrict Priority Last Mile in Master Data to POD Apps
+
+  <br>
+
+###### _Associate Product Manager_ (July 2021 - April 2022)
+
+* Handle Fleet Management, Middle Mile improvement, Last Mile Improvement, Master Data Improvement
+* Successfully Centralized monitoring Fleet GPS from 5++ vendor dashboard into 1 Fleet GPS Dashboard
+* Successfully launch dashboard for Spaghetti route for SiCepat Fleets
+* Achieve reduction of 50% manual jobdesk for L1 Helpdesk for implementing auto generated user and default password.
+* Improvement COD Apps system with microservices and Achieve 50% faster for export report data and process
+* Research & integrate with Payment Gateway for First Mile App for payment method of end-user
+* Create end-to-end concept with stakeholder to use Cash Deposit Machine (CDM) to deposit cash from end user (COD Awb) in Branch so that depositing money is no longer manual using bank transfers
+* Build end-to-end system for Rumah Singgah Apps (Web, Internal Dashboard, Mobile) for SiCepat Non Profit Organization to help homeless children and orphanage
 
   <br>
 
@@ -21,13 +40,9 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 ###### _Associate Product Manager_ (January 2020 - June 2021)
 
-* Launched [**AdroadyBikeOOH**](https://rizalsaputra.com/portfolio/mobile-dooh-flagship-product-with-adroady/), we help advertisers to promote their campaign inroads with a motorcycle, the successor of the flagship product installed on the car, with targetted location and time, image recognition for count impression and views from vehicle and people behind, and the advertiser can monitor the detailed report in the dashboard. AdroadyBike has run more than 20++ units on the street.
-* Launched [**AdroadyAI**](https://rizalsaputra.com/portfolio/ai-device-project-with-adroady/), which detects movement, from people to public transport vehicles. AdroadyAI devices can be installed starting from indoor and outdoors. Our idea to connect every OOH media platform extends to the very core of our tracking device. We want to provide analytical insights into our traditional fellows and bring them closer to the gate of digitalization. User can see reports and track in real-time in the dashboard.
-* Launched [**CekQ**](https://rizalsaputra.com/portfolio/cekq-product/), you can check in [cekq.co.id](http://cekq.co.id), touchless check-in system with visitor tracking and engagement built-in for building. We can track the last location, gender, temperature as detected in one dashboard. Users/visitors can install CekQ mobile apps to see history location and another benefit.
-* Conduct product release planning to discuss and establish roadmap on new product/feature development
-* Seek product ideas and feedback, gather requirements and MVP, write specs and PRD, create wireframes and workflows, and demo them early and often.
-* Works closely with stakeholders in designing the end-to-end business flow for implementation of new features and enhancements
-* Work closely with Engineers to design ideal UI/UX for mobile apps, web, and hardware
+* Launched [**AdroadyBikeOOH**](https://rizalsaputra.com/portfolio/mobile-dooh-flagship-product-with-adroady/), we help advertisers to promote their campaign inroads with a motorcycle with targetted location and time, image recognition for count impression and views from vehicle and people in street, with live monitoring and reporting.
+* Launched [**AdroadyAI**](https://rizalsaputra.com/portfolio/ai-device-project-with-adroady/), a device which detects movement, from people to public transport vehicles. Our idea to connect every OOH media platform extends to the very core of our tracking device.
+* Launched [**CekQ**](https://rizalsaputra.com/portfolio/cekq-product/), touchless check-in system with visitor tracking and engagement built-in for building. We can track the last location, gender, temperature as detected in one dashboard. Users/visitors can install CekQ mobile apps to see history location and other benefits.
 
 <br>
 
@@ -61,15 +76,6 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 * Develop Android Apps and publish in Playstore with a total of 500K+ download.
 * Manage Google Play Console also AdWords and AdMob.
 
-##### **Karya Cipta Eka**
-
-###### _Co-Founder_ (January 2021 - Present)
-
-* [**octopen.com**](https://octopen.com)**:** Social Media Platform Management, Our idea is to make it easier to manage and prepare content with scheduled posts for well-known social media such as Instagram, Facebook, Twitter in one platform. Other features include analytics and summaries of posted content. For now, Octopen is in the market survey phase to determine how much interest from the market, business aspects, and MVP.
-* [**hirind.com**](https://hirind.com)**:** Job Portal Platform, Our idea is to link several job portals to make it easier for job seekers to be on one platform, aiming for time efficiency and creating a job list as well as a summary. Hirind is currently at the completion stage of the MVP and development process.
-
-<br>
-
 #### **Educational**
 
 ##### **Sepuluh November Institute of Technology (ITS) Surabaya**
@@ -82,17 +88,11 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 <br>
 
-##### **SMAN 1 Srengat Blitar (2011-2014)**
-
-###### _Science Major_
-
-* Graduates by entering college through the SNMPTN pathway.
-
-<br>
-
 #### **Skills**
 
 * Product Management
+* App & API Integration
+* Basic Query
 * Product Design
 * Personas
 * Market Research
@@ -109,6 +109,11 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 
 #### **Tools**
 
+* Jira
+* Confluence
+* SQL
+* Grafana
+* Metabase
 * Figma
 * Ms-Excel
 * Redash
