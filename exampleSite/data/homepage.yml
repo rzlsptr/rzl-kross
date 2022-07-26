@@ -31,10 +31,10 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-1.png
+  - logo: images/experience/icon-2.png
     title: Associate Product Manager
     company: SiCepat Ekspres Indonesia
-    duration: Jul 2021 - Present
+    duration: Jul 2021 - Apr 2022
   - logo: images/experience/icon-2.png
     title: Associate Product Manager
     company: Adroady
