@@ -5,106 +5,85 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Management. Currently working as Core Product Manager at SiCepat Ekspres Indonesia. Perform analysis, solve problems, and make product innovations based on data research. Experience in building Digital products, AI products, and IoT products. Have a personal project in Entertainment mobile apps. Interested and eager to learn in technology, business processes, and product management.
+I'm Mohammad Rizal Saputra, an IT Project Manager with 7+ years of experience delivering enterprise technology projects across government and public transportation, logistics, and SaaS. Currently manage a portfolio of 8 enterprise accounts in parallel, including an IDR 15B deployment for TransJakarta, a provincial government-owned operator. Experienced in project governance (project charter, WBS, RAID log), SLA deliverable tracking, budget and vendor coordination, and system integration with ERP, finance, and authentication systems (SAP, Odoo, Accurate, SSO/OTP). Generated 5B+ IDR in revenue through SaaS product growth.
 
 #### **Experience**
 
-##### **SiCepat Ekspres Indonesia (Jakarta, Indonesia)**
+##### **McEasy (Jakarta, Indonesia)**
 
-###### _Core Product Manager_ (April 2022 - Present)
+###### _Customer Project Manager_ (October 2025 - Present)
 
-* Handle Product in Core Operation - Support: Master Data, User Management, Customer Management, Auth SSO & OTP, App Integration, Fleet, Support SiCepat TMS & POD
-* Handle for Master Data SiCepat, a centralized data & system for support all SiCepat Apps Ecosystem
-* Integrate Master Data SiCepat with SunFish, for centralized employee data and internal users management.
-* Build WhatsApp and Email OTP for TMS, POD and Master Data system and reduce cost 80% of monthly OTP
-* Integrate Master Data with SAP, Odoo, and Billing System for Finance and Help Desk needs
-* Support for SiCepat Petty Cash and Billing system launch and reduce cost 6 billion rupiah
-* Increase efficiency of SLA From 72% to 90%, from improvement mapping Subdistrict Priority Last Mile in Master Data to POD Apps
+* **Project Governance:** Manage a portfolio of 8 enterprise accounts in parallel across government and public transportation, mining, logistics, and automotive (including TransJakarta, Kaltim Prima Coal, DHL, Gaya Makmur Mobil, Wuling, Damri, and Kawan Lama Group), from project charter and WBS through UAT, go-live, and SLA deliverable tracking, with RAID logs for risk and issue control.
+* **Large-Scale Public Sector Project:** Lead the IDR 15B camera safety system deployment for TransJakarta, a provincial government-owned operator, under strict SLA requirements. Designed the daily operational control flow covering inventory, serial-number traceability, QC, validation, and handover documentation, and report progress weekly to C-level.
+* **Business Case and Approval:** Author PRDs and project charters for C-level approval, defining scope, exclusions, decision points, and measurable UAT success criteria.
+* **Enterprise Tenders:** Lead technical responses and proof-of-concept delivery for enterprise tenders in mining (Kaltim Prima Coal) and logistics (DHL), coordinating field engineers, IoT, and platform squads, including on-site mobilization.
+* **Systems Integration:** Lead data integration between the platform and client systems, including vehicle CAN-bus/OBD data for EV and heavy-duty truck clients (Wuling, GMM) and ERP synchronization (Accurate), and define third-party device integration through Open API.
+* **Requirements and Solution Design:** Lead requirements for a custom logistics platform replacing a client's Odoo ERP workflows, including approval-based status flows, master data with effective dating, and cost variance tracking.
+* **Budget and Stakeholder Management:** Manage multi-billion IDR project budgets and act as the primary liaison between client leadership, engineering squads, and product owners, handling cross-team escalations and change requests.
 
   <br>
 
-###### _Associate Product Manager_ (July 2021 - April 2022)
+###### _Product Manager_ (June 2024 - October 2025)
 
-* Handle Fleet Management, Middle Mile improvement, Last Mile Improvement, Master Data Improvement
-* Successfully Centralized monitoring Fleet GPS from 5++ vendor dashboard into 1 Fleet GPS Dashboard
-* Successfully launch dashboard for Spaghetti route for SiCepat Fleets
-* Achieve reduction of 50% manual jobdesk for L1 Helpdesk for implementing auto generated user and default password.
-* Improvement COD Apps system with microservices and Achieve 50% faster for export report data and process
-* Research & integrate with Payment Gateway for First Mile App for payment method of end-user
-* Create end-to-end concept with stakeholder to use Cash Deposit Machine (CDM) to deposit cash from end user (COD Awb) in Branch so that depositing money is no longer manual using bank transfers
-* Build end-to-end system for Rumah Singgah Apps (Web, Internal Dashboard, Mobile) for SiCepat Non Profit Organization to help homeless children and orphanage
+* Led the development and launch of Quick Assignment, a fleet and driver management product used by 120+ companies across logistics, mining, car rental, and carpooling.
+* Managed the Transportation Management System (TMS) logistics SaaS with customer ERP integration, generating IDR 5 billion in revenue.
+* Drove end-to-end product development with the engineering squad, including the implementation of a subscription module.
+* Developed and executed growth and experimentation strategies, with a focus on customer acquisition, retention, and revenue growth.
+
+  <br>
+
+##### **SiCepat Ekspres Indonesia (Jakarta, Indonesia)**
+
+###### _Product Manager_ (July 2021 - June 2024)
+
+* Managed SiCepat Master Data, the central identity and data system (user management, SSO, OTP) integrated with SunFish, SAP, Odoo, and the billing system.
+* Built WhatsApp and email OTP verification for the TMS, POD, and Master Data systems, reducing monthly OTP costs by 80%.
+* Supported the launch of the Petty Cash and Billing systems, reducing costs by IDR 6 billion.
+* Designed a Cash Deposit Machine (CDM) flow for branches to deposit COD cash, replacing manual bank transfers, and rebuilt the COD app on microservices for 50% faster reporting.
+* Reduced L1 Helpdesk manual workload by 50% by automating user account provisioning.
+* Increased SLA achievement from 72% to 90% by improving last-mile subdistrict priority mapping from Master Data to the POD app.
+* Managed Middlemile systems (hub sortation, linehaul, fleet) and consolidated GPS monitoring from 5+ vendors into one dashboard.
 
   <br>
 
 ##### **Adroady (Jakarta, Indonesia)**
 
-###### _Associate Product Manager_ (January 2020 - June 2021)
+###### _Associate Product Manager_ (August 2019 - July 2021)
 
-* Launched [**AdroadyBikeOOH**](https://rizalsaputra.com/portfolio/mobile-dooh-flagship-product-with-adroady/), we help advertisers to promote their campaign inroads with a motorcycle with targetted location and time, image recognition for count impression and views from vehicle and people in street, with live monitoring and reporting.
-* Launched [**AdroadyAI**](https://rizalsaputra.com/portfolio/ai-device-project-with-adroady/), a device which detects movement, from people to public transport vehicles. Our idea to connect every OOH media platform extends to the very core of our tracking device.
-* Launched [**CekQ**](https://rizalsaputra.com/portfolio/cekq-product/), touchless check-in system with visitor tracking and engagement built-in for building. We can track the last location, gender, temperature as detected in one dashboard. Users/visitors can install CekQ mobile apps to see history location and other benefits.
-
-<br>
-
-###### _Industrial Product Designer_ (August 2019 - January 2020)
-
-* Seek product ideas and feedback, gather requirements, write specs, design, and demo them early and often.
-* Works closely with stakeholders in designing and production
-* Design and prototyping Adroady Product
-* Supervise mass production of a product
+* Launched [**AdroadyBikeOOH**](https://rizalsaputra.com/portfolio/mobile-dooh-flagship-product-with-adroady/), a motorcycle-based outdoor advertising product with image-recognition impression tracking and live reporting.
+* Launched [**AdroadyAI**](https://rizalsaputra.com/portfolio/ai-device-project-with-adroady/), a movement-detection device for OOH media platforms.
+* Launched [**CekQ**](https://rizalsaputra.com/portfolio/cekq-product/), a touchless building check-in system with a visitor tracking dashboard and mobile app.
 
 <br>
-
-##### **Inno Design Center - Intership (Surabaya, Indonesia)**
-
-###### _Staff designer_ (July 2017 - December 2018)
-
-* Design Sleeper Seat for INKA 2018 ([link](https://rizalsaputra.com/portfolio/railway-project-with-inno-design-center/))
-* Design and Animation of LRT Palembang 2017 ([link](https://rizalsaputra.com/portfolio/railway-project-with-inno-design-center/))
-* Event Organizer Suroboyo Creative Week 2018
-* Event Organizer Suroboyo Creative Week 2017
-
-<br>
-
-#### **Project**
-
-##### **Team Project (Android Apps)**
-
-###### _Product Management_ (July 2019 - Present)
-
-* Research SEO, Keywords, and Content for Mobile Apps.
-* Develop Android Apps and publish in Playstore with a total of 500K+ download.
-* Manage Google Play Console also AdWords and AdMob.
-  * <br>
 
 #### **Educational**
 
-##### **Sepuluh November Institute of Technology (ITS) Surabaya**
+##### **Sepuluh Nopember Institute of Technology (ITS) Surabaya, Indonesia**
 
-###### _Bachelor of Arts in Product Design - Product Design Department (26/08/2014 - 16/03/2019)_
+###### _Bachelor of Design (S.Ds.), Product Design (August 2014 - January 2019)_
 
-* Head of Mapping Bureau, Department of Human Resources Development - Product Design IDE Student Association Nirmana Jingga Cabinet. 2016 - 2017
-* Staff of the Ministry of Human Resources Development - Student Executive Board Institut Teknologi Sepuluh Nopember. 2016 - 2016
-* Mapping Bureau Staff, Human Resources Development Department - Student Association of Product Design IDE Galaksi Cabinet. 2015 - 2016
+* Head of Mapping Bureau, HR Development, Product Design Student Association (2016 - 2017)
+* Staff, HR Development Ministry, ITS Student Executive Board (2016)
 
 <br>
 
 #### **Skills**
 
+* Project Governance
+* Project Portfolio Management
+* Project Charter
+* WBS
+* RAID/Risk Log
+* SLA Deliverable Tracking
+* Budget and Vendor Management
+* Stakeholder Management
+* UAT
+* Agile/Scrum
+* Requirements (PRD/BRD)
+* System Integration (ERP, API, SSO/OTP)
+* SQL
+* Analytics
 * Product Management
-* App & API Integration
-* Basic Query
-* Product Design
-* Personas
-* Market Research
-* Analitycs
-* Teamwork
-* Agile
-* Prototyping
-* 3D Design
-* Problem Solving
-* Product Research & Development
-* Product Launch
 
 <br>
 
@@ -113,23 +92,10 @@ I'm Mohammad Rizal Saputra, Have work experience in the ﬁeld of Product Manage
 * Jira
 * Confluence
 * SQL
-* Grafana
+* PostgreSQL
+* Trino
 * Metabase
-* Figma
-* Ms-Excel
-* Redash
-* PowerBI
-* Google Play Console
-* Analitycs
-* Ads & Admob
-* Swagger
+* Grafana
 * Postman
-* Android Studio
-* Illustrator
-* Coreldraw
-* 3DsMax
-* Keyshot
-* Sketchbook
-* Cura
-* Solidworks
-* Autocad
+* Zoho CRM
+* Accurate
